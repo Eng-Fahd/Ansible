@@ -1,0 +1,7 @@
+package_name: nginx
+files_list: 
+  - main.css
+  - main.js  
+
+name: Anne Frank
+quotes: whoever is happy will make others happy too
